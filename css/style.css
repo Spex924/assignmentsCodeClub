@@ -25,7 +25,7 @@
     clear: both;
 }
 .topdiv{
-    background-image: url('/img/pexels-maria-tyutina-249581.jpg');
+    background-image: url('img/pexels-maria-tyutina-249581.jpg');
     background-size: 100% 100%;
     position: relative;
     width: 100%;
@@ -202,27 +202,27 @@
     clear: both;
 }
 .thai{
-    background-image: url('/img/Thailand.jpg');
+    background-image: url('img/Thailand.jpg');
     background-size: cover;
 }
 .aus{
-    background-image: url('/img/Australia.jpg');
+    background-image: url('img/Australia.jpg');
     background-size: cover;
 }
 .indo{
-    background-image: url('/img/Indonesia.jpg');
+    background-image: url('img/Indonesia.jpg');
     background-size: cover;
 }
 .fr{
-    background-image: url('/img/france.jpg');
+    background-image: url('img/france.jpg');
     background-size: cover;
 }
 .mal{
-    background-image: url('/img/malaysia.jpg');
+    background-image: url('img/malaysia.jpg');
     background-size: cover;
 }
 .uae{
-    background-image: url('/img/uae.jpg');
+    background-image: url('img/uae.jpg');
     background-size: cover;
 }
 .strokeme {
@@ -275,7 +275,7 @@
     padding-right: 30px;
 }
 .imgpic{
-    background-image: url('/img/statue.jpg');
+    background-image: url('img/statue.jpg');
     background-size: cover;
     margin-bottom: 30px;
 }
@@ -299,7 +299,7 @@
     height: 106px;
     float: left;
     box-shadow: 1px 1px 30px #efe3e3;
-    background-image: url('/img/istanbul.jpg');
+    background-image: url('img/istanbul.jpg');
     background-size: cover;
     margin-right: 50px;
 }
@@ -355,7 +355,7 @@
 .reviewpic{
     width: 25%;
     height: 100%;
-    background-image: url('/img/justin.jpg');
+    background-image: url('img/justin.jpg');
     background-size: cover;
     float: left;
     margin-right: 50px;
